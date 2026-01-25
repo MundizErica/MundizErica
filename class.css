@@ -1,0 +1,13 @@
+p.success {
+    color: purple;
+    border: 3px solid;
+    padding: 10px;
+}
+
+p.Favorite {
+    color: green;
+    border: 3px dotted;
+    border-color: black;
+    padding: 10px;
+}
+
